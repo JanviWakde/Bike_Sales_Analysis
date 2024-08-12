@@ -23,8 +23,6 @@ The dataset provided is an Excel file named "Bike_Sales.xlsx" with the following
 - Perform exploratory data analysis to identify patterns and trends in the data
 - Apply statistical techniques to determine the significance of each demographic factor on bike sales
 - Segment customers using clustering algorithms based on their characteristics
-- Develop predictive models to forecast future bike sales based on customer demographics
-- Formulate targeted marketing strategies for each customer segment to optimize sales
 
 
 By following these steps and leveraging the insights gained from the data, the project aims to provide valuable recommendations for improving bike sales and customer engagement.
