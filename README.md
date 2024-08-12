@@ -17,7 +17,6 @@ The dataset provided is an Excel file named "Bike_Sales.xlsx" with the following
 - Children: Number of children
 - Education: Highest level of education attained
 - Occupation: Type of occupation
-The data contains 1,000 rows, each representing a customer with their corresponding demographic information.
 
 ### Next Steps
 - Clean and preprocess the data to handle any missing values or inconsistencies
