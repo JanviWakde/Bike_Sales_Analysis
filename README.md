@@ -11,12 +11,12 @@ Develop targeted marketing strategies to attract potential customers
 
 ### Data Overview
 The dataset provided is an Excel file named "Bike_Sales.xlsx" with the following columns:
-Marital Status: Married (M) or Single (S)
-Gender: Male (M) or Female (F)
-Income: Annual income in dollars
-Children: Number of children
-Education: Highest level of education attained
-Occupation: Type of occupation
+- Marital Status: Married (M) or Single (S)
+- Gender: Male (M) or Female (F)
+- Income: Annual income in dollars
+- Children: Number of children
+- Education: Highest level of education attained
+- Occupation: Type of occupation
 The data contains 1,000 rows, each representing a customer with their corresponding demographic information.
 
 ### Next Steps
