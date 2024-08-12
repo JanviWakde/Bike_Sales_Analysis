@@ -20,12 +20,12 @@ Occupation: Type of occupation
 The data contains 1,000 rows, each representing a customer with their corresponding demographic information.
 
 ### Next Steps
-Clean and preprocess the data to handle any missing values or inconsistencies
-Perform exploratory data analysis to identify patterns and trends in the data
-Apply statistical techniques to determine the significance of each demographic factor on bike sales
-Segment customers using clustering algorithms based on their characteristics
-Develop predictive models to forecast future bike sales based on customer demographics
-Formulate targeted marketing strategies for each customer segment to optimize sales
+- Clean and preprocess the data to handle any missing values or inconsistencies
+- Perform exploratory data analysis to identify patterns and trends in the data
+- Apply statistical techniques to determine the significance of each demographic factor on bike sales
+- Segment customers using clustering algorithms based on their characteristics
+- Develop predictive models to forecast future bike sales based on customer demographics
+- Formulate targeted marketing strategies for each customer segment to optimize sales
 
 
 By following these steps and leveraging the insights gained from the data, the project aims to provide valuable recommendations for improving bike sales and customer engagement.
