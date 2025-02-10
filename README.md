@@ -1,4 +1,4 @@
-# Bike_Sales_Analysis
+# Bike Sales Analysis
 
 ### Project Description
 The project involves analyzing a dataset of bike sales to gain insights into customer demographics and their purchasing patterns. The dataset contains information about each customer, including their marital status, gender, income, number of children, education level, and occupation.
